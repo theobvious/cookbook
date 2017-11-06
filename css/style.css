@@ -1,0 +1,77 @@
+body {
+  background-image: url("http://www.colonelsretreat.com/system/special_slider/cooking.png");
+  background-color: lavender;
+}
+header {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1 {
+  text-align: center;
+  background-color: #E5D6CC;
+  font-family: sans-serif;
+  color: #AB7965;
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+}
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #AB7965;
+}
+.clear {
+  clear: both;
+}
+.b {
+  font-weight: 600;
+}
+.time {
+  color: #5F9294;
+}
+.level {
+  color: #A15F5F;
+}
+.section1 {
+  border-radius: 10px;
+  width: 28%;
+  height: 400px;
+  float: left;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 15px 20px 10px 20px;
+  border: 1px solid #000;
+  box-shadow: 10px 10px 5px #888666;
+  background-color: #E5D6CC;
+  box-sizing: border-box;
+  overflow: auto;
+  overflow-x: hidden;
+}
+.section1:last-child {
+  margin-right: 10px;
+}
+.section2 {
+  border-radius: 10px;
+  width: 28%;
+  height: 400px;
+  float: left;
+  position: relative;
+  top: 50px;
+  left: 50px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 15px 20px 10px 20px;
+  border: 1px solid #000;
+  box-shadow: 10px 10px 5px #888666;
+  background-color: #E5D6CC;
+  box-sizing: border-box;
+  overflow: auto;
+  overflow-x: hidden;
+}
+.section2:last-child {
+  margin-right: 10px;
+}
